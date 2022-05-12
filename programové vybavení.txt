@@ -1,0 +1,37 @@
+1. Jake jsou tri zakladni roviny pocitacove bezpecnosti?
+-----------------------------------------------------
+1)Počítač
+2)Online prostor
+3)sociální sítě
+----------------
+2. Co je IP Adresa a port?
+--------------------------
+IP adresa je něco jako adresa kterou jiný počítač píše na obálku "pošty" kterou posílá našemu počítači. Dříve se používaly IPV4 10ková soustava, 32 bitů), ale nyní se používají hlavně IPV6 (16ková soustava, 128 bitů). 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+3. Jaky je rozdil mezi malwarem, spywarem, adwarem a ransomwarem?
+1) malware = škodlivý program (maže soubory, požkozuje soubory, atd.)
+2) spyware = program zbírající data
+3) adware = program zobrazující reklamu
+4) ransomware = program znemožňující přístup k vaším souborům, vyžaduje výkupné
+-------------------------------------------------------------------------------
+4. K cemu slouzi antivir?
+-------------------------
+Slouží k detekci a eradikaci škodlivých programů. Může sloužit i k prevenci vniknutí těchto programů do počítače.
+-----------------------------------------------------------------------------------------------------------------
+Jake zakladni aktivity/cinnosti antivirus provadi?
+Jake znate druhy/znacky antiviru?
+Jaky je rozdil mezi phishingem a spamem?
+Jaky je hlavni problem datove komunikace z hlediska bezpecnosti?
+----------------------------------------------------------------------------------------------------------------------
+
+
+-Email
+Byl vytvořen jako první způsob posílání zpráv přes počítač (1971). Zprávy se posílají pomocí SMTP (simple mail transfer protocol). Zprávy se odesílají pomocí Mail Transfer agents a 
+přijímají pomocí Mail Delivery Agents. V dnešní době se nejvíce používá webmail (např. gmail, GMX mail, Outlook), ke kterému se můžeme dostat pomocí jakéhokoliv prohlížeče a zastupuje MTA
+a MDA. Příklady webmailů = Gmail, Outlook, Protonmail
+-chatovací služby
+Nástupce emailu, který už nepřipomíná psanou poštu. Komunikovat můžeme okamžitě, můžeme vidět předchozí zprávy tím že zascrollujeme nahoru, můžeme vidět zda je daný člověk zrovna online,
+u některých můžeme smazat zprávy a můžeme vytvářet skupiny, kde komunikujeme s více lidmi najednou. Příklady chatovacích služeb = Facebook Messenger, Google Hangouts, Discord, Signal, 
+Telegram, Snapchat, Whatsapp
+
+
